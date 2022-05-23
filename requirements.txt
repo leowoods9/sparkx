@@ -35,3 +35,4 @@ heroku3
 js2py
 aiohttp
 gitpython
+mega
